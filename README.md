@@ -1,4 +1,6 @@
-# RecipeBook
+# WIP RecipeBook
+
+####Recipe book in angular 2 with bootstrap less
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.2.
 
